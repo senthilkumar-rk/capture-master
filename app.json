@@ -1,0 +1,6 @@
+{
+  "name": "Loan Application DApp",
+  "description": "A Capture Master application for Serveless",
+  "repository": "https://github.com/senthilkumar-rk/capture-master",
+  "keywords": ["node", "express"],
+}
