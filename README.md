@@ -112,3 +112,6 @@ This example code has been tested in the latest versions of:
 * Chrome
 * Firefox
 * Safari (on macOS)
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
